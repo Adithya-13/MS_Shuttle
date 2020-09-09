@@ -1,0 +1,266 @@
+<resources>
+    <string name="app_name">MS Shuttle</string>
+    <string name="whatsapp">Hey, MS-Shuttle. Bolehkah aku bertanya sesuatu?</string>
+    <string name="d_passenger_x_price">%d Penumpang X Harga</string>
+    <string name="rp_s">Rp. %s</string>
+    <string name="discount_s">Diskon %s</string>
+    <string name="confirmation_sheet">Lembar Konfirmasi</string>
+    <string name="order_code">Kode Pesanan</string>
+    <string name="_00000000">#00000000</string>
+    <string name="reservation_data">Data Reservasi</string>
+    <string name="pick_up">Titik Jemput</string>
+    <string name="date">Tanggal</string>
+    <string name="time">Waktu</string>
+    <string name="destination">Destinasi</string>
+    <string name="name">Nama</string>
+    <string name="whatsapp_number">Nomor WhatsApp</string>
+    <string name="member_number">Nomor Member</string>
+    <string name="passenger_data">Data Penumpang</string>
+    <string name="name_n_seat">Nama\nKursi</string>
+    <string name="luggage">Bagasi</string>
+    <string name="payment_data">Data Pembayaran</string>
+    <string name="total">Total</string>
+    <string name="payment_method">Metode Pembayaran</string>
+    <string name="account_name">Nama Rekening</string>
+    <string name="pt_mekarsari_awet_ayu">PT. Mekarsari Awet Ayu</string>
+    <string name="account_number">Nomor Rekening</string>
+    <string name="_2020880076">2020880076</string>
+    <string name="bank_name">Nama Bank</string>
+    <string name="bni">BNI</string>
+    <string name="save_and_send">Simpan dan Kirim</string>
+    <string name="order_data">Data Pesanan</string>
+    <string name="buyer_data">Data Pemesan</string>
+    <string name="does_the_buyer_come_on_a_trip_too_nif_yes_rewrite_your_name_in_the_passenger_data">Apakah Pemesan ikut perjalanan juga?\nJika iya, tuliskan nama anda di Data Penumpang</string>
+    <string name="please_add_a_passenger">Harap tambah Data Penumpang</string>
+    <string name="clear">Bersihkan</string>
+    <string name="next">Lanjut</string>
+    <string name="hello">Halo…</string>
+    <string name="where_are_you_going">Mau kemana nih ?</string>
+    <string name="faq">FAQ</string>
+    <string name="cso">CSO</string>
+    <string name="payment">Pembayaran</string>
+    <string name="extra_luggage">Bagasi tambahan</string>
+    <string name="payment_must_be_made_a_maximum_of_2_hours_after_ordering_if_exceeded_appointed_time_it_will_automatically_cancel">Pembayaran harus dilakukan maksimal 2
+jam setelah pemesanan, bila melebihi
+waktu yang telah ditentukan,
+maka secara otomatis akan batal </string>
+    <string name="payment_must_be_made_to_the_maximum_4_hours_before_departure_if_beyond_the_allotted_time_it_will_automatically_cancel">Pembayaran harus dilakukan maksimal
+4 jam sebelum keberangkatan, bila
+melebihi waktu yang telah ditentukan,
+maka secara otomatis akan batal </string>
+    <string name="add">Tambah</string>
+    <string name="select_date">Pilih Tanggal</string>
+    <string name="list_order">Daftar Pesanan</string>
+    <string name="onGoingTitle">Dalam Proses</string>
+    <string name="historyTitle">Riwayat</string>
+
+    <string-array name="pick_up_item">
+        <item>Pilih Titik Jemput</item>
+        <item>Cikijing</item>
+        <item>Talaga</item>
+        <item>Maja</item>
+        <item>Cigasong</item>
+        <item>Munjul</item>
+        <item>Kadipaten</item>
+        <item>Jatinangor</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+    </string-array>
+
+    <string-array name="destination_null">
+        <item>Pilih Destinasi</item>
+    </string-array>
+
+    <string-array name="time_null">
+        <item>Pilih Waktu</item>
+    </string-array>
+
+    <string-array name="seat">
+        <item>Pilih Kursi</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+
+    <string-array name="destination_cikijing_item">
+        <item>Pilih Destinasi</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_talaga_item">
+        <item>Pilih Destinasi</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_maja_item">
+        <item>Pilih Destinasi</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_cigasong_item">
+        <item>Pilih Destinasi</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_munjul_item">
+        <item>Pilih Destinasi</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_kadipaten_item">
+        <item>Pilih Destinasi</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_jatinangor_item">
+        <item>Pilih Destinasi</item>
+        <item>Cikijing</item>
+        <item>Talaga</item>
+        <item>Maja</item>
+        <item>Cigasong</item>
+        <item>Munjul</item>
+        <item>Kadipaten</item>
+    </string-array>
+
+    <string-array name="payment_method">
+        <item>Pilih Metode Pembayaran</item>
+        <item>Bank</item>
+        <item>Cash Outlet</item>
+    </string-array>
+
+    <string-array name="destination_pasteur_item">
+        <item>Pilih Destinasi</item>
+        <item>Cikijing</item>
+        <item>Talaga</item>
+        <item>Maja</item>
+        <item>Cigasong</item>
+        <item>Munjul</item>
+        <item>Kadipaten</item>
+    </string-array>
+
+    <string-array name="destination_gasibu_item">
+        <item>Pilih Destinasi</item>
+        <item>Cikijing</item>
+        <item>Talaga</item>
+        <item>Maja</item>
+        <item>Cigasong</item>
+        <item>Munjul</item>
+        <item>Kadipaten</item>
+    </string-array>
+
+    <string-array name="time_cikijing_item">
+        <item>Pilih Waktu</item>
+        <item>05:00</item>
+        <item>08:00</item>
+        <item>14:00</item>
+        <item>16:00</item>
+    </string-array>
+
+    <string-array name="time_talaga_item">
+        <item>Pilih Waktu</item>
+        <item>05:15</item>
+        <item>08:15</item>
+        <item>14:15</item>
+        <item>16:15</item>
+    </string-array>
+
+    <string-array name="time_maja_item">
+        <item>Pilih Waktu</item>
+        <item>05:45</item>
+        <item>08:45</item>
+        <item>14:45</item>
+        <item>16:45</item>
+    </string-array>
+
+    <string-array name="time_cigasong_item">
+        <item>Pilih Waktu</item>
+        <item>06:00</item>
+        <item>09:00</item>
+        <item>15:00</item>
+        <item>17:00</item>
+    </string-array>
+
+    <string-array name="time_munjul_item">
+        <item>Pilih Waktu</item>
+        <item>06:10</item>
+        <item>09:10</item>
+        <item>15:10</item>
+        <item>17:10</item>
+    </string-array>
+
+    <string-array name="time_kadipaten_item">
+        <item>Pilih Waktu</item>
+        <item>06:30</item>
+        <item>09:30</item>
+        <item>15:30</item>
+        <item>17:30</item>
+    </string-array>
+
+    <string-array name="time_gasibu_item">
+        <item>Pilih Waktu</item>
+        <item>06:00</item>
+        <item>09:00</item>
+        <item>14:00</item>
+        <item>18:00</item>
+    </string-array>
+
+    <string-array name="time_pasteur_item">
+        <item>Pilih Waktu</item>
+        <item>06:15</item>
+        <item>09:15</item>
+        <item>14:15</item>
+        <item>18:15</item>
+    </string-array>
+
+    <string-array name="time_jatinangor_item">
+        <item>Pilih Waktu</item>
+        <item>06:45</item>
+        <item>09:45</item>
+        <item>14:45</item>
+        <item>18:45</item>
+    </string-array>
+
+    <string name="confirm">Konfirmasi</string>
+    <string name="please_make_payment_and_confirm_immediately">Segera lakukan Pembayaran dan Konfirmasi!</string>
+    <string name="sign_up_member">Daftar Member</string>
+    <string name="language">Bahasa</string>
+    <string name="gallery">Galeri</string>
+    <string name="please_fill_the_passenger_name">Harap isi Nama Penumpang</string>
+    <string name="please_select_the_seat">Harap pilih nomor Kursi</string>
+    <string name="booking_successful">Berhasil Memesan</string>
+    <string name="please_select_pick_up">Harap isi Titik Tujuan</string>
+    <string name="please_select_date">Harap isi Tanggal</string>
+    <string name="please_select_time">Harap isi Waktu</string>
+    <string name="please_select_destination">Harap isi Destinasi</string>
+    <string name="install_wa">Download Aplikasi WhatsApp dahulu!</string>
+    <string name="failed_sign_up_member">Gagal untuk daftar Member</string>
+    <string name="please_fill_the_name">Harap isi Nama</string>
+    <string name="please_fill_waNumber">Harap isi Nomor WhatsApp</string>
+    <string name="please_fill_passenger">Harap isi Data Penumpang</string>
+    <string name="please_select_payment_method">Harap pilih Metode Pembayaran</string>
+    <string name="dont_fill_box">Jika kamu tidak punya Nomor Member, Jangan diisi</string>
+
+</resources>

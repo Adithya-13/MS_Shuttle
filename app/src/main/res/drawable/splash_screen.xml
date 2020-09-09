@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/splash_screen_background"/>
+
+    <item
+        android:gravity="center"
+        android:width="190dp"
+        android:height="71dp">
+        <bitmap
+            android:src="@drawable/ms_shuttle_logo"
+            android:gravity="fill_vertical|fill_horizontal"/>
+    </item>
+
+</layer-list>

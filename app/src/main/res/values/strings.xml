@@ -1,0 +1,260 @@
+<resources>
+    <string name="app_name">MS Shuttle</string>
+    <string name="whatsapp">Hey, MS-Shuttle. May I ask something?</string>
+    <string name="d_passenger_x_price">%d Passenger X Price</string>
+    <string name="rp_s">Rp. %s</string>
+    <string name="discount_s">Discount %s</string>
+    <string name="confirmation_sheet">Confirmation Sheet</string>
+    <string name="order_code">Order Code</string>
+    <string name="_00000000">#00000000</string>
+    <string name="reservation_data">Reservation Data</string>
+    <string name="pick_up">Pick Up</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="destination">Destination</string>
+    <string name="name">Name</string>
+    <string name="whatsapp_number">WhatsApp Number</string>
+    <string name="member_number">Member Number</string>
+    <string name="passenger_data">Passenger Data</string>
+    <string name="name_n_seat">Name\nSeat</string>
+    <string name="luggage">Luggage</string>
+    <string name="payment_data">Payment Data</string>
+    <string name="total">Total</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="account_name">Account Name</string>
+    <string name="pt_mekarsari_awet_ayu">PT. Mekarsari Awet Ayu</string>
+    <string name="account_number">Account Number</string>
+    <string name="_2020880076">2020880076</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="bni">BNI</string>
+    <string name="save_and_send">save and send</string>
+    <string name="order_data">Order Data</string>
+    <string name="buyer_data">Buyer Data</string>
+    <string name="does_the_buyer_come_on_a_trip_too_nif_yes_rewrite_your_name_in_the_passenger_data">Does the buyer come on a trip too?\nIf Yes, rewrite your name in the passenger data</string>
+    <string name="please_add_a_passenger">Please Add a Passenger</string>
+    <string name="clear">clear</string>
+    <string name="next">next</string>
+    <string name="hello">Hello…</string>
+    <string name="where_are_you_going">Where are you going ?</string>
+    <string name="faq">FAQ</string>
+    <string name="cso">CSO</string>
+    <string name="payment">Payment</string>
+    <string name="extra_luggage">Extra Luggage</string>
+    <string name="payment_must_be_made_a_maximum_of_2_hours_after_ordering_if_exceeded_appointed_time_it_will_automatically_cancel">Payment must be made a maximum of 2 hours after ordering, if exceeded appointed time, it will automatically cancel</string>
+    <string name="payment_must_be_made_to_the_maximum_4_hours_before_departure_if_beyond_the_allotted_time_it_will_automatically_cancel">Payment must be made to the maximum 4 hours before departure, if beyond the allotted time, it will automatically cancel</string>
+    <string name="add">Add</string>
+    <string name="select_date">Select Date</string>
+    <string name="list_order">List Order</string>
+    <string name="onGoingTitle">On Going</string>
+    <string name="historyTitle">History</string>
+
+    <string-array name="pick_up_item">
+        <item>Select Pick Up</item>
+        <item>Cikijing</item>
+        <item>Talaga</item>
+        <item>Maja</item>
+        <item>Cigasong</item>
+        <item>Munjul</item>
+        <item>Kadipaten</item>
+        <item>Jatinangor</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+    </string-array>
+
+    <string-array name="destination_null">
+        <item>Select Destination</item>
+    </string-array>
+
+    <string-array name="time_null">
+        <item>Select Time</item>
+    </string-array>
+
+    <string-array name="seat">
+        <item>Select Seat</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+
+    <string-array name="destination_cikijing_item">
+        <item>Select Destination</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_talaga_item">
+        <item>Select Destination</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_maja_item">
+        <item>Select Destination</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_cigasong_item">
+        <item>Select Destination</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_munjul_item">
+        <item>Select Destination</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_kadipaten_item">
+        <item>Select Destination</item>
+        <item>Pasteur</item>
+        <item>Gasibu</item>
+        <item>Jatinangor</item>
+    </string-array>
+
+    <string-array name="destination_jatinangor_item">
+        <item>Select Destination</item>
+        <item>Cikijing</item>
+        <item>Talaga</item>
+        <item>Maja</item>
+        <item>Cigasong</item>
+        <item>Munjul</item>
+        <item>Kadipaten</item>
+    </string-array>
+
+    <string-array name="payment_method">
+        <item>Select Payment Method</item>
+        <item>Bank</item>
+        <item>Cash Outlet</item>
+    </string-array>
+
+    <string-array name="destination_pasteur_item">
+        <item>Select Destination</item>
+        <item>Cikijing</item>
+        <item>Talaga</item>
+        <item>Maja</item>
+        <item>Cigasong</item>
+        <item>Munjul</item>
+        <item>Kadipaten</item>
+    </string-array>
+
+    <string-array name="destination_gasibu_item">
+        <item>Select Destination</item>
+        <item>Cikijing</item>
+        <item>Talaga</item>
+        <item>Maja</item>
+        <item>Cigasong</item>
+        <item>Munjul</item>
+        <item>Kadipaten</item>
+    </string-array>
+
+    <string-array name="time_cikijing_item">
+        <item>Select Time</item>
+        <item>05:00</item>
+        <item>08:00</item>
+        <item>14:00</item>
+        <item>16:00</item>
+    </string-array>
+
+    <string-array name="time_talaga_item">
+        <item>Select Time</item>
+        <item>05:15</item>
+        <item>08:15</item>
+        <item>14:15</item>
+        <item>16:15</item>
+    </string-array>
+
+    <string-array name="time_maja_item">
+        <item>Select Time</item>
+        <item>05:45</item>
+        <item>08:45</item>
+        <item>14:45</item>
+        <item>16:45</item>
+    </string-array>
+
+    <string-array name="time_cigasong_item">
+        <item>Select Time</item>
+        <item>06:00</item>
+        <item>09:00</item>
+        <item>15:00</item>
+        <item>17:00</item>
+    </string-array>
+
+    <string-array name="time_munjul_item">
+        <item>Select Time</item>
+        <item>06:10</item>
+        <item>09:10</item>
+        <item>15:10</item>
+        <item>17:10</item>
+    </string-array>
+
+    <string-array name="time_kadipaten_item">
+        <item>Select Time</item>
+        <item>06:30</item>
+        <item>09:30</item>
+        <item>15:30</item>
+        <item>17:30</item>
+    </string-array>
+
+    <string-array name="time_gasibu_item">
+        <item>Select Time</item>
+        <item>06:00</item>
+        <item>09:00</item>
+        <item>14:00</item>
+        <item>18:00</item>
+    </string-array>
+
+    <string-array name="time_pasteur_item">
+        <item>Select Time</item>
+        <item>06:15</item>
+        <item>09:15</item>
+        <item>14:15</item>
+        <item>18:15</item>
+    </string-array>
+
+    <string-array name="time_jatinangor_item">
+        <item>Select Time</item>
+        <item>06:45</item>
+        <item>09:45</item>
+        <item>14:45</item>
+        <item>18:45</item>
+    </string-array>
+
+    <string name="confirm">confirm</string>
+    <string name="please_make_payment_and_confirm_immediately">Please make payment and confirm immediately!</string>
+    <string name="sign_up_member">Sign Up Member</string>
+    <string name="language">Language</string>
+    <string name="gallery">Gallery</string>
+    <string name="please_fill_the_passenger_name">Please fill the Passenger Name</string>
+    <string name="please_select_the_seat">Please Select the Seat</string>
+    <string name="booking_successful">Booking Successful</string>
+    <string name="please_select_pick_up">Please Select Pick Up</string>
+    <string name="please_select_date">Please Select Date</string>
+    <string name="please_select_time">Please Select Time</string>
+    <string name="please_select_destination">Please Select Destination</string>
+    <string name="install_wa">Download WhatsApp Application First!</string>
+    <string name="failed_sign_up_member">Failed to Sign Up Member</string>
+    <string name="please_fill_the_name">Please fill the Name</string>
+    <string name="please_fill_waNumber">Please fill the WhatsApp Number</string>
+    <string name="please_fill_passenger">Please fill the Passenger</string>
+    <string name="please_select_payment_method">Please Select the Payment Method</string>
+    <string name="dont_fill_box">If you don\'t have Member, don\'t fill the box</string>
+
+</resources>

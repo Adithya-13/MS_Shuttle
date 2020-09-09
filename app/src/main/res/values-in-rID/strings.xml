@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gallery">Gallery</string>
+    <string name="please_fill_the_passenger_name">Please fill the Passenger Name</string>
+    <string name="please_select_the_seat">Please Select the Seat</string>
+    <string name="booking_successful">Booking Successful</string>
+    <string name="please_select_pick_up">Please Select Pick Up</string>
+    <string name="please_select_date">Please Select Date</string>
+    <string name="please_select_time">Please Select Time</string>
+    <string name="please_select_destination">Please Select Destination</string>
+    <string name="install_wa">Download WhatsApp Application First!</string>
+    <string name="failed_sign_up_member">Failed to Sign Up Member</string>
+    <string name="please_fill_the_name">Please fill the Name</string>
+    <string name="please_fill_waNumber">Please fill the WhatsApp Number</string>
+    <string name="please_fill_passenger">Please fill the Passenger</string>
+    <string name="please_select_payment_method">Please Select the Payment Method</string>
+</resources>
